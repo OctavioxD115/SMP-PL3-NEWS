@@ -1,7 +1,15 @@
 {
-  "minecraft": "26.2",
-  "fabric_loader": "0.18.4",
-  "fabric_api": "0.140.2",
-  "java": "25",
-  "pack_version": "1.0.0"
+  "schema": 1,
+  "minecraft": {
+    "version": "26.2"
+  },
+  "fabric": {
+    "loader": "0.19.2"
+  },
+  "java": {
+    "major": 25
+  },
+  "pack": {
+    "version": "2.0.0"
+  }
 }
