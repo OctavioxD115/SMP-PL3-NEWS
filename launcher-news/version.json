@@ -4,7 +4,7 @@
     "version": "26.2"
   },
   "fabric": {
-    "loader": "0.19.2"
+    "loader": "0.19.3"
   },
   "java": {
     "major": 25
