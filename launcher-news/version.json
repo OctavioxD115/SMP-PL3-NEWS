@@ -1,0 +1,7 @@
+{
+  "minecraft": "26.2",
+  "fabric_loader": "0.18.4",
+  "fabric_api": "0.140.2",
+  "java": "25",
+  "pack_version": "1.0.0"
+}
