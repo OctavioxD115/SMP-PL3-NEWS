@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "minecraft": {
-    "version": "26.2"
+    "version": "1.20.1"
   },
   "fabric": {
-    "loader": "0.19.3"
+    "loader": "0.19.2"
   },
   "java": {
-    "major": 25
+    "major": 17
   },
   "pack": {
     "version": "2.0.0"
